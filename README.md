@@ -1,5 +1,4 @@
 # MLPerf™ Training Reference Implementations
-![model architecture](https://github.com/Didymos056/training/blob/cb49dd5e014ab41a8f883c12b8de9e05daf520e2/%E8%B5%84%E4%BA%A7.png)
 
 This is a repository of reference implementations for the MLPerf training benchmarks. These implementations are valid as starting points for benchmark implementations but are not fully optimized and are not intended to be used for "real" performance measurements of software frameworks or hardware. 
 
